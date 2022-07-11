@@ -1,2 +1,2 @@
 # Course-git
-this to help my understand how GitHub better
+this to help me understand GitHub better
